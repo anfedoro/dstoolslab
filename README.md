@@ -1,2 +1,2 @@
 # dstoolslab
-Data Science course lab repository
+Tools for Data Science course lab repository
